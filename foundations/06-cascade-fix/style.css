@@ -18,6 +18,8 @@ body{
 }
 
 .button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-size: 20px;
 }
 
@@ -26,11 +28,6 @@ body{
   color: white;
   font-weight: bold;
 } 
-
-#cancel-button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
-}
 
 .text {
   color: rgb(0, 0, 0);
